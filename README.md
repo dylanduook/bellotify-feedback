@@ -9,7 +9,8 @@ Keep your users in the loop. **[Bellotify](https://bellotify.com)** is a changel
 
 ## 🎨 Preview & Aesthetics
 
-*Place your beautiful system screenshot or dashboard GIF here!*
+<img width="1172" height="672" alt="b04284c0363dbed2d8b839da716f74a2" src="https://github.com/user-attachments/assets/5ab6171a-1e66-49e7-919f-d15a9a6e4367" />
+<img width="1194" height="698" alt="921f84f3071edd359298374155dbe40f" src="https://github.com/user-attachments/assets/b4efc607-b19b-4aa4-b801-019920a6bc65" />
 
 
 ---
