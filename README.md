@@ -1,8 +1,6 @@
-<img width="2552" height="1274" alt="bellotifyweb" src="https://github.com/user-attachments/assets/40847148-0535-4966-b66f-88da529dd5ca" /># 🔔 Bellotify Feedback & Public Roadmap
+# 🔔 Bellotify Feedback & Public Roadmap
 
-Welcome to the official feedback and roadmap repository for **[Bellotify](https://bellotify.com)**! 
-
-Bellotify is a lightweight, beautiful, and privacy-focused Micro-SaaS designed for indie hackers and developers. It seamlessly combines **Product Changelogs** and **Form Hosting** into one single platform, helping you ship updates and gather user feedback in minutes.
+Keep your users in the loop. **[Bellotify](https://bellotify.com)** is a changelog platform that lets you publish product updates, embed a notification widget on your site, and see exactly how visitors engage with your announcements.
 
 👉 **[Visit Official Website (bellotify.com)](https://bellotify.com)** | 🚀 **[Create Free Account](https://bellotify.com/register)**
 
@@ -10,10 +8,8 @@ Bellotify is a lightweight, beautiful, and privacy-focused Micro-SaaS designed f
 
 ## 🎨 Preview & Aesthetics
 
-*Place your beautiful system screenshot here to grab attention!*
-<!-- Replace the URL below with your actual screenshot image URL after uploading it to GitHub -->
-<img src="![Uploading bellotifyweb.png…]()" alt="Bellotify Dashboard Preview" width="100%" style="border-radius: 8px;" />
-
+*Place your beautiful system screenshot or dashboard GIF here!*
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Bellotify Dashboard Preview" width="100%" style="border-radius: 8px;" />
 
 ---
 
@@ -21,28 +17,112 @@ Bellotify is a lightweight, beautiful, and privacy-focused Micro-SaaS designed f
 
 We build in public and highly value your feedback! You can shape the future of Bellotify by participating in our GitHub community:
 
-*   🐛 **Found a Bug?** Open a [Bug Report](https://github.com/YOUR_GITHUB_USERNAME/bellotify-feedback/issues/new?assignees=&labels=bug&projects=&template=bug_report.md).
-*   💡 **Have an Idea?** Suggest a [Feature Request](https://github.com/YOUR_GITHUB_USERNAME/bellotify-feedback/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md).
-*   💬 **General Questions?** Join the conversation in our [GitHub Discussions](https://github.com/YOUR_GITHUB_USERNAME/bellotify-feedback/discussions).
+* 🐛 **Found a Bug?** Open a [Bug Report](https://github.com/dylanduook/bellotify-feedback/issues/new?assignees=&labels=bug&projects=&template=bug_report.md).
+* 💡 **Have an Idea / Integration Request?** Suggest a [Feature Request](https://github.com/dylanduook/bellotify-feedback/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md).
+* 💬 **General Questions?** Join the conversation in our [GitHub Discussions](https://github.com/dylanduook/bellotify-feedback/discussions).
 
 ---
 
-## 🗺️ Public Roadmap
+## 🗺️ Public Roadmap & Status
 
-Here is what we are working on and what's coming next. Feel free to vote for features by reacting with 👍 on the corresponding Issues!
+We are committed to transparency. Here is our current development focus. Feel free to vote for your most-wanted features by reacting with 👍 on the corresponding Issues!
 
-| Feature / Integration | Status | Expected |
-| :--- | :--- | :--- |
-| **Changelog Custom Domains** | 🚀 Released | May 2026 |
-| **Lemon Squeezy & Paddle Webhooks** | 🚀 Released | May 2026 |
-| **Advanced Form Analytics Dashboard** | 🚧 In Progress | June 2026 |
-| **Embedded Changelog Widget (JS)** | 📅 Planned | Q3 2026 |
-| **Zapier & Make.com Integrations** | 📅 Planned | Q3 2026 |
+| Status | Feature / Goal | Target | Details |
+| :--- | :--- | :--- | :--- |
+| **🚀 Released** | **AI Changelog Assistant** | Q1 2026 | Let AI draft your release notes from a few bullet points. |
+| **🚀 Released** | **Hosted Public Pages** | Q1 2026 | Every project gets a ready-to-share `bellotify.com/your-project` page. |
+| **🚧 In Progress**| **Custom CSS & Branding** | Q2 2026 | Advanced styling for Pro users to match their exact brand identity. |
+| **🚧 In Progress**| **Multi-Project Workspaces**| Q2 2026 | Manage different products/projects from a single dashboard. |
+| **📅 Planned** | **API Access (Public Beta)** | Q3 2026 | Programmatic access to publish and fetch changelogs via API. |
+| **📅 Planned** | **Slack & Discord Hooks** | Q3 2026 | Auto-push notifications to your community chat tools. |
+| **📅 Planned** | **Zapier Integration** | Q4 2026 | Connect your changelog workflow with 5,000+ other apps. |
 
 ---
 
-## 🔒 Privacy & Security
+## 🧰 Free Tools for Developers & Indie Hackers
 
-Bellotify is a cloud-hosted SaaS. This repository is **only** used for community discussion, roadmap tracking, and issue reporting. **No core business logic or source code is hosted here.** Your forms and data security are safely handled on our production servers.
+No signup required! We’ve built a growing collection of free, privacy-first tools to help you ship faster:
 
-Thank you for supporting Bellotify! Built with ❤️ by developers, for developers.
+* 🤖 **AI Changelog Generator**: Paste messy git commits or rough notes and get a polished, publication-ready release note in seconds.
+* ⚖️ **Privacy & ToS Generator**: Generate customizable Privacy Policy and Terms of Service pages for your product instantly.
+* 🔢 **SemVer Calculator**: Input your current version and change types to compute your next correct Semantic Versioning tag.
+* 🗺️ **Roadmap Simulator**: Visually plan and share your product roadmap with simple drag-and-drop.
+* 🖼️ **Screenshot Wrapper / Mockup**: Drop screenshots into beautiful browser/device frames for landing pages and social media.
+* 🔍 **JSON Diff Checker (Local)**: Semantically compare two JSON objects recursively while ignoring ordering noise.
+* 🪝 **Webhook Tester (Live)**: Generate temporary private endpoints to inspect incoming webhooks in real time (Stripe, Lemon Squeezy, etc.).
+* ⚡ **Image Compressor (Local)**: 100% private, batch browser-based compression for PNG, JPG, WebP, and SVG with no file size limits.
+* 🎨 **Favicon / ICO Generator**: Upload any image and download a ready-to-use favicon.ico in multiple sizes.
+
+👉 **[Explore All Free Tools](https://bellotify.com/free-tools)**
+
+---
+
+## 🚀 What You Can Do with Bellotify
+
+### Publish Updates
+- **Markdown Editor**: Write changelog entries with a rich text editor that supports Markdown.
+- **Custom Labels**: Organize entries by category with custom labels and colors.
+- **Scheduled Publishing**: Schedule entries to go live at a specific date and time.
+- **Drafts**: Save drafts and publish when you're ready.
+- **AI-Powered Writer**: Let AI write a first draft from a short description of what changed.
+
+### Share with Your Audience
+- **Hosted Page**: Every account gets a hosted changelog page, ready to share.
+- **Custom Domain**: Use your own domain instead of the default Bellotify URL.
+- **Password Protection**: Make your page private with password protection.
+- **SEO Control**: Hide your changelog from search engines if you prefer.
+- **White-Label**: Remove Bellotify branding for a fully white-label experience.
+
+### Embed a Widget on Your Site
+- **Single Line of Code**: Add a notification bell to your website with a single line of code.
+- **Unread Badges**: Visitors see a badge when there are new updates.
+- **Interactive Panel**: Clicking the bell opens a panel with your latest changelog entries.
+- **Fully Customizable**: Customize the button color, panel style, position, and icon to match your brand.
+
+### Understand Your Visitors
+- **Analytics**: See who's reading your updates and how they found them.
+- **Reactions & Feedback**: Track reactions (thumbs up/down) and read free-text feedback left by visitors.
+- **Visitor Profiles**: View each visitor's profile: location, device, and activity history.
+- **Team Notes**: Add private notes and tags to visitor profiles for your team.
+- **Data Export**: Export feedback and analytics data at any time.
+
+### Work with Your Team
+- **Team Collaboration**: Invite teammates by email to collaborate on your changelog.
+- **Access Control**: Control what each member can see and do.
+- **Multi-Project Management**: Switch between multiple projects from a single account.
+
+### Grow with Referrals
+- **Referral Program**: Share your referral link and earn rewards when friends sign up.
+- **Dual Discounts**: Referred users and referrers both receive a discount coupon.
+- **Easy Upgrade**: Apply your coupon when upgrading to Pro.
+
+---
+
+## 💳 Plans & Pricing
+
+| Feature | Free | Pro | Pro Yearly |
+|---|---|---|---|
+| Changelog entries | Up to 50 | Unlimited | Unlimited |
+| Custom domain | — | ✓ | ✓ |
+| Remove branding | — | ✓ | ✓ |
+| Private page | — | ✓ | ✓ |
+| Hide from search | — | ✓ | ✓ |
+| Scheduled publishing | — | ✓ | ✓ |
+| Custom categories | — | ✓ | ✓ |
+| Widget embed | ✓ | ✓ | ✓ |
+| Widget customization | — | ✓ | ✓ |
+| Image uploads | — | ✓ | ✓ |
+| Video uploads | — | — | ✓ |
+| Custom CSS / JS | — | — | ✓ |
+| Team members | 1 | Up to 5 | Unlimited |
+| AI generations / month | 5 | 50 | 200 |
+
+---
+
+## 🔒 Privacy & Security Note
+
+Bellotify is a secure, cloud-hosted SaaS. This GitHub repository is **exclusively** used for community discussion, roadmap tracking, and public issue reporting. **No core business logic or source code is hosted here.** Your data, forms, and logs are safely handled on our production environment.
+
+## Get Started
+
+Sign up for free at **[bellotify.com](https://bellotify.com)** — no credit card required.
