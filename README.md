@@ -1,3 +1,4 @@
+<img width="2552" height="1274" alt="bellotifyweb" src="https://github.com/user-attachments/assets/a9483937-3e0d-469c-b586-04c3816241d0" />
 # 🔔 Bellotify Feedback & Public Roadmap
 
 Keep your users in the loop. **[Bellotify](https://bellotify.com)** is a changelog platform that lets you publish product updates, embed a notification widget on your site, and see exactly how visitors engage with your announcements.
@@ -9,7 +10,7 @@ Keep your users in the loop. **[Bellotify](https://bellotify.com)** is a changel
 ## 🎨 Preview & Aesthetics
 
 *Place your beautiful system screenshot or dashboard GIF here!*
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Bellotify Dashboard Preview" width="100%" style="border-radius: 8px;" />
+
 
 ---
 
@@ -40,6 +41,7 @@ We are committed to transparency. Here is our current development focus. Feel fr
 ---
 
 ## 🧰 Free Tools for Developers & Indie Hackers
+<img width="2552" height="1274" alt="tools" src="https://github.com/user-attachments/assets/106b8b7b-5355-4e12-b592-13b0716ea965" />
 
 No signup required! We’ve built a growing collection of free, privacy-first tools to help you ship faster:
 
